@@ -1,11 +1,7 @@
 ﻿
 using System.CodeDom.Compiler;
-using System.Diagnostics;
-using System.Xml;
 using System.Xml.Serialization;
 using System.Runtime.Serialization;
-using System.ComponentModel;
-using System.ServiceModel;
 
 
 namespace AspNetCore.Report.ReportService2010_
